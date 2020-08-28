@@ -6,7 +6,7 @@
   "scripts": {
     "devStart": "nodemon server.js"
   },
-  "author": "",
+  "author": "kUSHAGRA",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.0.1",
